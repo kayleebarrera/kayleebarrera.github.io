@@ -1,0 +1,89 @@
+baseURL: "https://kaybarr4.github.io" 
+title: Kaylee Barrera
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: About
+          url: about/
+        - name: Research
+          url: research/
+
+params:
+    description: "I am an undergraduate student majoring in Planetary Science & Astronomy and Physics at MIT. I am interested in researching young exoplanets."
+    author: Kaylee Barrera
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["about","research"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Hi! I'm Kaylee Barrera.
+          subtitle: 
+              <span style="color:#052e80">*(she/they/he)*</span> <br><br>
+
+              I am a 3rd-year undergraduate student double majoring in Planetary Science & Astronomy (EAPS) and Physics at MIT. My research interests lie in detecting and characterizing exoplanets, particularly in young planetary systems. I currently work with [<span style="color:#052e80"><u>**Andrew Vanderburg**</u></span>](https://avanderburg.github.io/) and [<span style="color:#052e80"><u>**Sarah Blunt**</u></span>](https://sites.google.com/g.harvard.edu/sarah/home) on cross-validating Gaussian Process models of radial velocity measurements with [<span style="color:#052e80"><u>**eurydice**</u></span>](https://eurydice.readthedocs.io/en/latest/).
+          imageUrl: "portrait.png"
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: Kaylee Barrera
+          buttons:
+            - name: About
+              url: about/
+            - name: Research
+              url: research/
+            
+    socialIcons:
+        - name: CV
+          url: kaybar_2025_CV.pdf
+        - name: Email
+          url: mailto:kaybar@mit.edu
+        - name: GitHub
+          url: https://github.com/kaybarr4
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/kaylee-barrera/
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Kaylee Barrera"
+      icon: static/favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2

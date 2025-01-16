@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abouts on Kaylee Barrera</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Kaylee Barrera</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;h2 id=&#34;broadly-thinking-about&#34;&gt;Broadly Thinking About:&lt;/h2&gt;
+&lt;p&gt;The intersections of micro theory, econometric theory, and machine learning.&lt;/p&gt;
+&lt;p&gt;How do researchers act? How do they learn? How do they make decisions? What changes when researchers are algorithms?&lt;/p&gt;
+&lt;h2 id=&#34;specifically-working-on&#34;&gt;Specifically Working On:&lt;/h2&gt;
+&lt;p&gt;People have presented a number of suggestions for solving the replication crisis. These suggestions sometimes do not take into account dynamics; and they almost always do not examine the effects on innovation. &lt;a href=&#34;https://njw.fish/&#34; target=&#34;_blank&#34;&gt;Nic Fishman&lt;/a&gt; and I are thinking about this.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
