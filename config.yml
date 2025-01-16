@@ -73,7 +73,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Kaylee Barrera"
-      icon: static/favicon.ico
+      icon: static/favicon-32x32.png
       iconHeight: 18
 
 markup:
