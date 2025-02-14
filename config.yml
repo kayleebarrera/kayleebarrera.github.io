@@ -58,7 +58,7 @@ params:
             
     socialIcons:
         - name: CV
-          url: kaybar_2025_CV.pdf
+          url: kaylee_barrera_2025_CV.pdf
         - name: Email
           url: mailto:kaybar@mit.edu
         - name: GitHub
@@ -73,8 +73,8 @@ params:
         hiddenInSingle: true
     label:
       text: "Kaylee Barrera"
-      icon: static/favicon-32x32.png
-      iconHeight: 18
+      icon: apple-touch-icon.png
+      iconHeight: 20
 
 markup:
     goldmark:
