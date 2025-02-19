@@ -17,9 +17,9 @@ With <span style="font-family: Courier New">**eurydice**</span>, I am building a
 
 ## **Photometry of VHS 1256-1257 and 2024 PT5 at Teide Observatory**
 ![](/teidesunset.png)
-In January 2025, I traveled to Teide Observatory on Tenerife, Spain in partnership with the Instituto de Astrofísica de Canarias (IAC) as part of a three week intensive research class (read more about 12.411 Astronomy Field Camp [here!](https://www.iac.es/en/outreach/news/mit-astronomy-field-camp-students-share-their-scientific-results-iac)). 
+In January 2025, I traveled to Teide Observatory in Tenerife, Spain in partnership with the Instituto de Astrofísica de Canarias (IAC) as part of a three week intensive research class (read more about 12.411 Astronomy Field Camp [here!](https://www.iac.es/en/outreach/news/mit-astronomy-field-camp-students-share-their-scientific-results-iac)). 
 
-At Teide, I was trained to operate three different professional meter-class telescope (IAC80, Telescopio Carlos Sanchez and SPECULOOS-Artemis). From the data collected over three weeks at Teide, I focused on characterizing the high variability of triple brown dwarf system VHS J1256-1257 and on determining a rotational period of "mini-moon" 2024 PT5. 
+At Teide, I was trained to operate three different professional meter-class telescopes (IAC80, Telescopio Carlos Sanchez and SPECULOOS-Artemis). From the data collected over three weeks at Teide, I focused on characterizing the high variability of triple brown dwarf system VHS J1256-1257 and on determining a rotational period of "mini-moon" 2024 PT5. 
 
 I am currently working on a publication detailing our new observations of VHS J1245-1257 -- stay tuned!
 
