@@ -18,7 +18,6 @@ menu:
 params:
     description: "I am an undergraduate student majoring in Planetary Science & Astronomy and Physics at MIT. I am interested in researching young exoplanets."
     author: Kaylee Barrera
-    # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
@@ -45,10 +44,10 @@ params:
           subtitle: 
               <span style="color:#052e80">*(she/they/he)*</span> <br><br>
 
-              I am a 3rd-year undergraduate student double majoring in Planetary Science & Astronomy (EAPS) and Physics at MIT. My research interests lie in detecting and characterizing exoplanets, particularly in young planetary systems. I currently work with [<span style="color:#052e80"><u>**Andrew Vanderburg**</u></span>](https://avanderburg.github.io/) and [<span style="color:#052e80"><u>**Sarah Blunt**</u></span>](https://sites.google.com/g.harvard.edu/sarah/home) on cross-validating Gaussian Process models of radial velocity measurements with [<span style="color:#052e80"><u>**eurydice**</u></span>](https://eurydice.readthedocs.io/en/latest/).
-          imageUrl: "portrait.png"
-          imageWidth: 160
-          imageHeight: 160
+              I am a 4th-year undergraduate student double majoring in Planetary Science & Astronomy (EAPS) and Physics at MIT. My research interests lie in detecting and characterizing exoplanets, particularly in young planetary systems. I currently work with [<span style="color:#052e80"><u>**Andrew Vanderburg**</u></span>](https://avanderburg.github.io/) and [<span style="color:#052e80"><u>**Sarah Blunt**</u></span>](https://sblunt.github.io/) on cross-validating Gaussian Process models of radial velocity measurements with [<span style="color:#052e80"><u>**eurydice**</u></span>](https://eurydice.readthedocs.io/en/latest/).
+          imageUrl: "doodle_portrait.png"
+          imageWidth: 200
+          imageHeight: 200
           imageTitle: Kaylee Barrera
           buttons:
             - name: About
@@ -58,7 +57,7 @@ params:
             
     socialIcons:
         - name: CV
-          url: kaylee_barrera_2025_CV.pdf
+          url: kaylee_barrera_aug_2025_CV.pdf
         - name: Email
           url: mailto:kaybar@mit.edu
         - name: GitHub
