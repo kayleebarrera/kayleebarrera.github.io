@@ -1,5 +1,6 @@
-baseURL: "https://kaybarr4.github.io" 
-title: Kaylee Barrera
+baseURL: "https://kayleebarrera.github.io" 
+title: Kaylee Barrera - Undergraduate Astronomer
+
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -21,6 +22,7 @@ params:
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
+    footer_name: "Kaylee Barrera"
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
@@ -44,7 +46,9 @@ params:
           subtitle: 
               <span style="color:#052e80">*(she/they/he)*</span> <br><br>
 
-              I am a 4th-year undergraduate student double majoring in Planetary Science & Astronomy (EAPS) and Physics at MIT. My research interests lie in detecting and characterizing exoplanets, particularly in young planetary systems. I currently work with [<span style="color:#052e80"><u>**Andrew Vanderburg**</u></span>](https://avanderburg.github.io/) and [<span style="color:#052e80"><u>**Sarah Blunt**</u></span>](https://sblunt.github.io/) on cross-validating Gaussian Process models of radial velocity measurements with [<span style="color:#052e80"><u>**eurydice**</u></span>](https://eurydice.readthedocs.io/en/latest/).
+              I am a 4th-year undergraduate student double majoring in Planetary Science & Astronomy (EAPS) and Physics at MIT. My research interests lie in detecting and characterizing exoplanets, particularly in young planetary systems. I currently work with [<span style="color:#052e80"><u>**Andrew Vanderburg**</u></span>](https://avanderburg.github.io/) and [<span style="color:#052e80"><u>**Sarah Blunt**</u></span>](https://sblunt.github.io/) on cross-validating Gaussian Process models of radial velocity measurements with [<span style="color:#052e80"><u>**eurydice**</u></span>](https://eurydice.readthedocs.io/en/latest/).<br><br>
+
+                <span style="color:#052e80; display:inline-flex; align-items:center;margin-top:-100px;"><img src="email_icon.svg" alt="email icon" style="width:35px; height:35px; margin-left:-2px;margin-right:2px;">kaybar [at] mit [dot] edu</span>
           imageUrl: "doodle_portrait.png"
           imageWidth: 200
           imageHeight: 200
@@ -56,14 +60,16 @@ params:
               url: research/
             
     socialIcons:
+        # - name: Email
+        #   url: mailto:kaybar@mit.edu
         - name: CV
           url: kaylee_barrera_aug_2025_CV.pdf
-        - name: Email
-          url: mailto:kaybar@mit.edu
         - name: GitHub
-          url: https://github.com/kaybarr4
+          url: https://github.com/kayleebarrera
         - name: LinkedIn
           url: https://www.linkedin.com/in/kaylee-barrera/
+        - name: BlueSky
+          url: https://bsky.app/profile/kayleebarrera.bsky.social
 
     assets:
         disableScrollBarStyle: true
@@ -72,8 +78,8 @@ params:
         hiddenInSingle: true
     label:
       text: "Kaylee Barrera"
-      icon: apple-touch-icon.png
-      iconHeight: 20
+      icon: pixel_kales.png
+      iconHeight: 35
 
 markup:
     goldmark:

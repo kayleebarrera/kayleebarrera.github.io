@@ -4,7 +4,7 @@ hidemeta: true
 ---
 
 ## <span style="color:#1d4dad">**Current Project:**</span> <span style="font-family: Courier New">eurydice</span> and the HD 63433 system
-![img](/eurydicedemo.png)
+![](/eurydicedemo.png)
 
 High stellar activity from young, active stars is a major obstacle when using the radial velocity method to detect exoplanets, limiting our ability to study young exoplanets' properties and evolution. An increasingly common approach to modeling stellar noise in radial velocity measurements is Gaussian Process regression. However, there is no standardized method for assessing the predictiveness of these stellar activity models in the exoplanet community, a problem that has led to overfitting and unreliable results in the past (see [Blunt et al. 2023](https://iopscience.iop.org/article/10.3847/1538-3881/acde78)). As the search for exoplanets begins to focus on younger and more active stars, it is becoming increasingly important to understand the extent of overfitting on stellar activity models. 
 
