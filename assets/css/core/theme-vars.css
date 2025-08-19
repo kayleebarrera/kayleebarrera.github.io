@@ -4,7 +4,7 @@
     --nav-width: 1024px;
     --main-width: 720px;
     --header-height: 44px;
-    --footer-height: 70px;
+    --footer-height: 44px;
     --radius: 8px;
     --theme: rgb(255, 255, 255);
     --entry: rgb(255, 255, 255);
@@ -14,11 +14,11 @@
     --gray: rgb(165, 165, 165);
     --content: rgb(30, 30, 30);
     --code-block-bg: rgb(28, 29, 33);
-    --code-bg: #f3f7ff;
+    --code-bg: #edf2fc;
     --border: rgb(238, 238, 238);
     --darkcolor: #d55672;
-    --lightcolor: #EFA00B;
-    --extra: #9db9db;
+    --lightcolor: #eba5b5;
+    --extra: #9dbfe8;
     --semibold: 500;
     --homesize: 20px;
     --textsize: 18px;

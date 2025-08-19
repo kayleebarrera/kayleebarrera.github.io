@@ -20,7 +20,7 @@
     line-height: 36px;
     background: var(--primary);
     border-radius: calc(36px / 2);
-    padding: 30 16px;
+    padding: 0 16px;
 }
 
 .pagination .next {
@@ -35,8 +35,8 @@
 }
 
 .social-icons a svg {
-    height: 26px;
-    width: 26px;
+    height: 30px;
+    width: 30px;
 }
 
 .social-icons a:hover {
