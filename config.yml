@@ -67,13 +67,13 @@ params:
         # - name: Email
         #   url: mailto:kaybar@mit.edu
         - name: CV
-          url: kaylee_barrera_aug_2025_CV.pdf
+          url: kaylee_barrera_2025_CV.pdf
         - name: GitHub
           url: https://github.com/kayleebarrera
         - name: LinkedIn
           url: https://www.linkedin.com/in/kaylee-barrera/
-        - name: BlueSky
-          url: https://bsky.app/profile/kayleebarrera.bsky.social
+        # - name: BlueSky
+        #   url: https://bsky.app/profile/kayleebarrera.bsky.social
 
     assets:
         disableScrollBarStyle: true
