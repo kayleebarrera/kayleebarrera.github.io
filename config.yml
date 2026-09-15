@@ -1,5 +1,5 @@
 baseURL: "https://kayleebarrera.github.io" 
-title: Kaylee Barrera - Undergraduate Astronomer
+title: Kaylee Barrera
 
 theme: PaperMod
 
@@ -11,13 +11,13 @@ taxonomies:
 
 menu:
     main:
-        - name: About
-          url: about/
+        # - name: About
+        #   url: about/
         - name: Research
           url: research/
 
 params:
-    description: "I am an undergraduate student majoring in Planetary Science & Astronomy and Physics at MIT. I am interested in researching young exoplanets."
+    description: "I am an Astronomy PhD Student at Harvard. I research exoplanets!"
     author: Kaylee Barrera
     DateFormat: "January 2006"
     defaultTheme: light
@@ -32,7 +32,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["about","research"]
+    MainSections: ["research"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -44,22 +44,22 @@ params:
           enabled: True
           title: Hi! I'm Kaylee Barrera.
           subtitle: 
-              <span style="color:#052e80">*(she/they/he)*</span> <br><br>
+              <span style="color:#052e80">*(she/they)*</span> <br><br>
 
-              I am a final year undergraduate student double majoring in Planetary Science & Astronomy (EAPS) and Physics at MIT. 
-              My research interests lie in detecting and characterizing exoplanets, particularly in young planetary systems.
-              I currently work with [<span style="color:#052e80"><u>**Andrew Vanderburg**</u></span>](https://avanderburg.github.io/) and
-              [<span style="color:#052e80"><u>**Sarah Blunt**</u></span>](https://sblunt.github.io/) on cross-validating Gaussian Process
-              models of radial velocity measurements with [<span style="color:#052e80"><u>**eurydice**</u></span>](https://eurydice.readthedocs.io/en/latest/).<br><br>
+              I am a first-year Astronomy PhD student and NSF Graduate Research Fellow at the [<span style="color:#052e80"><u>**Center for Astrophysics | Harvard & Smithsonian.**</u></span>](https://www.cfa.harvard.edu/)
+              My research interests lie in detecting and characterizing [<span style="color:#052e80"><u>**exoplanets,**</u></span>](https://science.nasa.gov/exoplanets/) particularly in young planetary systems, to better understand planet formation and evolution. 
+              Through my research, I hope to contextualize our place in the universe and the bizarreness of our home planet. <br><br>
 
-              <span style="color:#d55672; display:inline-flex; align-items:center;margin-top:-100px;"><img src="email_icon.svg" alt="email icon" style="width:35px; height:35px; margin-left:-2px;margin-right:2px;">*kaybar [at] mit [dot] edu*</span>
+              I am a *proud* New Jerseyan and did my undergraduate degree at [<span style="color:#052e80"><u>**MIT,**</u></span>](https://www.mit.edu/) where I double-majored in [<span style="color:#052e80"><u>**Planetary Science**</u></span>](https://eaps.mit.edu/) and [<span style="color:#052e80"><u>**Physics.**</u></span>](https://physics.mit.edu/) Outside of research, I enjoy trying new crafts, dilly-dallying around Boston, and writing silly reviews on Letterboxd.<br><br>
+
+              <span style="color:#d55672; display:inline-flex; align-items:center;margin-top:-100px;"><img src="email_icon.svg" alt="email icon" style="width:35px; height:35px; margin-left:-2px;margin-right:2px;">*kaylee [dot] barrera [at] cfa [dot] harvard [dot] edu*</span>
           imageUrl: "doodle_portrait.png"
           imageWidth: 200
           imageHeight: 200
           imageTitle: Kaylee Barrera
           buttons:
-            - name: About
-              url: about/
+            # - name: About
+            #   url: about/
             - name: Research
               url: research/
             
@@ -67,13 +67,15 @@ params:
         # - name: Email
         #   url: mailto:kaybar@mit.edu
         - name: CV
-          url: kaylee_barrera_2025_CV.pdf
+          url: kaylee_barrera_CV.pdf
         - name: GitHub
           url: https://github.com/kayleebarrera
         - name: LinkedIn
           url: https://www.linkedin.com/in/kaylee-barrera/
         # - name: BlueSky
         #   url: https://bsky.app/profile/kayleebarrera.bsky.social
+        - name: ORCID
+          url: https://orcid.org/0009-0002-2901-8661
 
     assets:
         disableScrollBarStyle: true

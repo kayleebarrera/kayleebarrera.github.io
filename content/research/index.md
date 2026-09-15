@@ -22,10 +22,10 @@ In January 2025, I traveled to Teide Observatory in Tenerife, Spain in partnersh
 
 At Teide, I was trained to operate three different professional meter-class telescopes and from the data collected, I focused on characterizing the high variability of triple brown dwarf system VHS J1256-1257 and on determining a rotational period of "mini-moon" 2024 PT5. 
 
-## **Koronis Family Asteroids, Pluto, and TESS follow-up at Wallace Observatory**
+## **Koronis family asteroids and Pluto follow-up at Wallace Observatory**
 ![](/wallacestartrail.jpg)
 During the summer of 2023, I worked at MIT's Wallace Observatory on a handful of projects. 
 
 My primary project was investigating Pluto’s atmosphere and surface using photometry as part of a several-year-long observing campaign. Through collecting data from Wallace throughout multiple summers, we are hoping to examine notable differences to Pluto’s light curves which can hint to changes in its surface or atmospheric makeup, particularly the migration of ices.
 
-I also worked on collecting Koronis Family asteroid light curves to determine their spin vectors and shape. Two papers on [452 Hamiltonia](https://ui.adsabs.harvard.edu/abs/2024MPBu...51..176S/abstract) and [5139 Rumoi](https://ui.adsabs.harvard.edu/abs/2024MPBu...51....6S/abstract) were published in *The Minor Planet Bulletin*. I also helped develop and troubleshoot an automated observation program for TESS planet candidate follow-up with MIT's Elliot 24-inch telescope. 
+I also worked on collecting Koronis family asteroid light curves to determine their spin vectors and shape. Two papers on [452 Hamiltonia](https://ui.adsabs.harvard.edu/abs/2024MPBu...51..176S/abstract) and [5139 Rumoi](https://ui.adsabs.harvard.edu/abs/2024MPBu...51....6S/abstract) were published in *The Minor Planet Bulletin*. 
